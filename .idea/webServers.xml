@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dd283ad3-9c0e-4d49-be2d-68bfd015baaf" name="huaji" url="http://huaji.io">
+        <fileTransfer host="huaji.io" port="22" rootFolder="/opt/tomcat/webapps/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
